@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_engine\\test\\source\\test\\testactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_engine\\test\\intermediate\\build\\win64\\x64\\testeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal_engine\\test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test\\definitions.test.h",
+            "d:\\unreal_engine\\test\\source\\test\\testactor.h",
+            "d:\\unreal_engine\\test\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\uht\\testactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
